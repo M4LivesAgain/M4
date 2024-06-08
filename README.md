@@ -1,5 +1,4 @@
 
-```math
 \documentclass{article}
 \usepackage{tikz}
 \usetikzlibrary{fadings}
