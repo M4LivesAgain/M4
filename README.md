@@ -1,4 +1,4 @@
-```math
+```latex
 \documentclass{article}
 \usepackage{graphicx}
 \usepackage{xcolor}
