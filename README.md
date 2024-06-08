@@ -1,4 +1,3 @@
-### Hi human👋
 [![animated](https://github.com)]
 
 ```math
