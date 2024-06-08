@@ -1,5 +1,3 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/M4LivesAgain/GTAGWF.github.io/main/rnhbhegj2jhb1.webp');]{x0000}$}
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: contain; width: 130vw; opacity: 1; background: url('
-https://raw.githubusercontent.com/M4LivesAgain/GTAGWF.github.io/main/rnhbhegj2jhb1.webp');]{x0000}$}
-
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/M4LivesAgain/GTAGWF.github.io/main/rnhbhegj2jhb1.webp') center/cover, linear-gradient(45deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 1; background: linear-gradient(45deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3);]{x0000}$}
